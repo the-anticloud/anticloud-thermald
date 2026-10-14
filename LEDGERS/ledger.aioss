@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: LAPTOPS/THERMALD
+# records: 5
+# head: b8b0fabc8c32ba04bb3e4dad517b78bf4fb3d23d2eed1d67c54c49dfe2fce09a
+{"digest": "c7a00939d982d8bfcc067c12b331a8c548aaedcab2de48f3e2bff426f2ecb3e7", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "e3d37c10d319ab0be8578b3ab78f243e4847820178ee74ed55976a57a797d1b5", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:53:13Z"}
+{"digest": "ffd957185ee3efe9a0b8ab10c996187c4725b2e2052a40c3deb82793a1582446", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "03d3aba16a5692bf412f040a884c924994dce44587dbd91c66f7cec24cfc7b68", "prev": "c7a00939d982d8bfcc067c12b331a8c548aaedcab2de48f3e2bff426f2ecb3e7", "seq": 1, "ts": "2026-10-09T05:53:13Z"}
+{"digest": "d99922edf6d371c2c23b908dd2374bdf69730246b904a00ea83e35d5688ca25d", "kind": "readme", "path": "README.md", "payload_sha3": "087d97ee53bbbb7117cea783e5d0957c6393d57132fe2420315fc3565707482e", "prev": "ffd957185ee3efe9a0b8ab10c996187c4725b2e2052a40c3deb82793a1582446", "seq": 2, "ts": "2026-10-09T05:53:13Z"}
+{"digest": "fb789a57ae1c3c738ebb5126105019a4183903222982acc2bc05e727362494ae", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "ed7c01acc8f6657515ad6a2f71c67a3fa9d5cf1748785ae26ea7a53eac4ec46f", "prev": "d99922edf6d371c2c23b908dd2374bdf69730246b904a00ea83e35d5688ca25d", "seq": 3, "ts": "2026-10-09T05:53:13Z"}
+{"digest": "b8b0fabc8c32ba04bb3e4dad517b78bf4fb3d23d2eed1d67c54c49dfe2fce09a", "kind": "notice", "path": "NOTICE", "payload_sha3": "24a4cbb4885bd172a13d54ddd729de0a6ccdc089720da445f91c11349807cf0e", "prev": "fb789a57ae1c3c738ebb5126105019a4183903222982acc2bc05e727362494ae", "seq": 4, "ts": "2026-10-09T05:53:13Z"}
